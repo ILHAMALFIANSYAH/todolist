@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="text-center my-5">Todo List</h1>
+      <h1 className="text-center my-5">todo list</h1>
       <div className="container">
         <div className="col-4 mx-auto">
           <div class="input-group mb-3">
@@ -41,9 +41,9 @@ function App() {
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
+                width="20"
+                height="20"
+                viewBox="0 0 25 25"
                 fill="none"
                 stroke="currentColor"
                 stroke-width="2"
@@ -73,9 +73,9 @@ function App() {
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
+                    width="20"
+                    height="20"
+                    viewBox="0 0 25 25"
                     fill="none"
                     stroke="currentColor"
                     stroke-width="2"
